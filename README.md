@@ -35,13 +35,18 @@
 - :trophy: Grand Finalist of "Smart India Hackathon 2019" - Software Edition
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
 
+```
+
 **I Mostly Code in JavaScript** 
 
+```text
 JavaScript               17 repos            █████████░░░░░░░░░░░░░░░░   36.17% 
 Vue                      8 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.02% 
 Java                     7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.89% 
 Dart                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.51% 
 CSS                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.51%
+
+```
 
 
 <h2 align="left">:heart: Let's get connected:</h2>

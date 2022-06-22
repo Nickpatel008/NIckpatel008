@@ -72,7 +72,7 @@ CSS                      4 repos             ██░░░░░░░░░�
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-sivramshastri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=#/)](https://www.linkedin.com/in/sivramshastri) [![Twitter Badge](https://img.shields.io/badge/-@dhaval_patel008?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/DhavalP77705952)](https://twitter.com/prince_shivaram) [![Facebook Badge](https://img.shields.io/badge/-@#?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=#)](https://www.facebook.com/jonnalagadda.shivaram) [![Instagram Badge](https://img.shields.io/badge/-@prince__shivaram-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/_dhalu.patel_/)](https://www.instagram.com/_dhalu.patel_/)
+[![Linkedin Badge](https://img.shields.io/badge/-sivramshastri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=#/)](https://www.linkedin.com/in/sivramshastri) [![Twitter Badge](https://img.shields.io/badge/-@dhaval_patel008?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/DhavalP77705952)](https://twitter.com/dhaval_patel008) [![Facebook Badge](https://img.shields.io/badge/-@#?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=#)]() [![Instagram Badge](https://img.shields.io/badge/-@_dhalu.patel_?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/_dhalu.patel_/)](https://www.instagram.com/_dhalu.patel_/)
 
 
 

@@ -10,10 +10,6 @@
 
 ###
 
-<img align="right" height="250" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
 <p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning NEXT JS.<br>🎯 Goals: Become Best Developer<br>🎲 Fun fact: "Programmers spend about 10% of their time 🖋️ writing code and 90% of their time 🤔 figuring out why it's not working."</p>
 
 ###
@@ -95,6 +91,10 @@
   <img width="17" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
 </div>
+
+###
+
+<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 

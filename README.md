@@ -10,9 +10,17 @@
 
 ###
 
+<br clear="both">
+
 <p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning NEXT JS.<br>🎯 Goals: Become Best Developer<br>🎲 Fun fact: "Programmers spend about 10% of their time 🖋️ writing code and 90% of their time 🤔 figuring out why it's not working."</p>
 
 ###
+
+<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<br clear="both">
 
 <h2 align="left">I code with</h2>
 
@@ -94,32 +102,32 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Nickpatel008/Nickpatel008/output/snake.svg" alt="Snake animation" />
-
-###
-
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Nickpatel008&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nickpatel008&radius=16&theme=redical&area=true&order=5&custom_title=Activity%20Graph&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Nickpatel008&theme=dracula&column=-1&row=1&margin-w=7&margin-h=10&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nickpatel008&radius=16&theme=redical&area=true&order=5&custom_title=Activity%20Graph&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=Nickpatel008&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nickpatel008&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Nickpatel008&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
 
+<img src="https://raw.githubusercontent.com/Nickpatel008/Nickpatel008/output/snake.svg" alt="Snake animation" />
+
+###
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <a href="https://www.linkedin.com/in/dhavalpatel2504/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/dhavalpatel2504" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
 </div>
 
 ###
